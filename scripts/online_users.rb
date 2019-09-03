@@ -52,11 +52,17 @@ with_sandboxed_clipboard do
     users = [online_users]
   end
 
-  sorted = regex_fuzzy_search(query, users)
+  if query.length > 0 
+    sorted = regex_fuzzy_search(query, users)
+  else
+    sorted = users
+  end
 
   users_string = ""
-  if sorted.count == 0
+  if users.count == 0
     users_string = "<item><title>No online users</title></item>"
+  elsif sorted.count == 0
+    users_string = "<item><title>Unable to find any matching online users</title></item>"
   else
     sorted.each do |user|
       users_string << %Q{<item arg="#{user[:string]}"><title>#{user[:string]}</title></item>}
