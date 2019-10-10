@@ -6,8 +6,6 @@ A collection of [Alfred](https://www.alfredapp.com/) workflows for interacting w
 
 **Make a call**
 
-⬇️  [Download](https://github.com/tupleapp/alfred-workflows/raw/master/workflows/tuple_call.alfredworkflow)
-
 Start a call with a friend or teammate who is currently online.
 
 **Usage**
@@ -19,5 +17,6 @@ Start a call with a friend or teammate who is currently online.
 
 **How to install**
 
-Click download link above then open `~/Downloads` and double click the
-`.alfredworkflow` file.
+⬇️ [Download the workflow](https://github.com/tupleapp/alfred-workflows/raw/master/workflows/tuple_call.alfredworkflow)
+
+After downloading, double-click the `.alfredworkflow` file.
