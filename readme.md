@@ -1,5 +1,7 @@
 # An Alfred workflow for Tuple
 
+_A workflow for using [Tuple](https://tuple.app) from [Alfred](alfredapp.com)_
+
 ## Make a call 
 
 Start a call with a friend or teammate who is currently online.
