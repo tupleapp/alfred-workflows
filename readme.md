@@ -1,10 +1,6 @@
-# Tuple Alfred Workflows
+# An Alfred workflow for Tuple
 
-A collection of [Alfred](https://www.alfredapp.com/) workflows for interacting with [Tuple](https://tuple.app/).
-
-## Workflows
-
-**Make a call**
+## Make a call 
 
 Start a call with a friend or teammate who is currently online.
 
