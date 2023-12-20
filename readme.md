@@ -1,5 +1,11 @@
 # An Alfred workflow for Tuple
 
+<hr/>
+⚠️ Please note that this workflow is no longer being actively maintained for the newest versions of macOS. ⚠️
+
+If you're interested in helping as a maintainer, please reach out to <a href="mailto:support@tuple.app">support@tuple.app</a>.
+<hr/>
+
 _A workflow for using [Tuple](https://tuple.app) from [Alfred](alfredapp.com)_
 
 ## Make a call 
